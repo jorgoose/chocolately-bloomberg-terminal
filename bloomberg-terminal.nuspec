@@ -6,7 +6,7 @@
     <title>Bloomberg Terminal</title>
     <authors>Bloomberg</authors>
     <projectUrl>https://www.bloomberg.com/professional/solution/bloomberg-terminal/</projectUrl>
-    <iconUrl>https://pbs.twimg.com/profile_images/1016326195221352450/KCcdUN0v_400x400.jpg</iconUrl>
+    <iconUrl>https://cdn.statically.io/gh/jorgoose/chocolately-bloomberg-terminal/main/icon.png</iconUrl>
     <tags>bloomberg terminal finance stocks trading data</tags>
     <summary>Comprehensive financial data and analysis tool from Bloomberg</summary>
     <description>
