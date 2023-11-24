@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>bloomberg-terminal</id>
+    <version>130.7.80</version>
+    <title>Bloomberg Terminal</title>
+    <authors>Bloomberg</authors>
+    <projectUrl>https://www.bloomberg.com/professional/solution/bloomberg-terminal/</projectUrl>
+    <iconUrl>https://pbs.twimg.com/profile_images/1016326195221352450/KCcdUN0v_400x400.jpg</iconUrl>
+    <tags>bloomberg terminal finance stocks trading data</tags>
+    <summary>Comprehensive financial data and analysis tool from Bloomberg</summary>
+    <description>
+Bloomberg Terminal is a leading software system from Bloomberg L.P. that provides financial data, news feeds, messaging, and more to provide a complete solution for traders and finance professionals. Its powerful analytics, comprehensive data sources, and market tools make it an essential tool in the financial industry. This package downloads and installs Bloomberg Terminal version 130.7.80 along with it's associated Bloomberg software.
+    </description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
